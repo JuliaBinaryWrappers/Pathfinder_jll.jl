@@ -1,0 +1,59 @@
+[[Pathfinder]]
+arch = "aarch64"
+git-tree-sha1 = "15282311d9e3d4294c8877ce82e60ef8a9eb2103"
+os = "macos"
+
+    [[Pathfinder.download]]
+    sha256 = "e73f0fdd4f58ed7ac74973370715418d239f78312412fcb9b989c2f170937023"
+    url = "https://github.com/JuliaBinaryWrappers/Pathfinder_jll.jl/releases/download/Pathfinder-v0.5.0+0/Pathfinder.v0.5.0.aarch64-apple-darwin.tar.gz"
+[[Pathfinder]]
+arch = "aarch64"
+git-tree-sha1 = "957c380391701201a13634b5bba6223810db1090"
+libc = "glibc"
+os = "linux"
+
+    [[Pathfinder.download]]
+    sha256 = "c79cae3a7f5ee7af94d3e5c2669c1487ac3e4f2251386a3a0f9fc3fe73e3ce83"
+    url = "https://github.com/JuliaBinaryWrappers/Pathfinder_jll.jl/releases/download/Pathfinder-v0.5.0+0/Pathfinder.v0.5.0.aarch64-linux-gnu.tar.gz"
+[[Pathfinder]]
+arch = "powerpc64le"
+git-tree-sha1 = "ab8d0f3d09a3295b9d79178713e2312d6987b7eb"
+libc = "glibc"
+os = "linux"
+
+    [[Pathfinder.download]]
+    sha256 = "adb2ec70bea3974729045ebae1743f36224a27ce415825541e1420524918d543"
+    url = "https://github.com/JuliaBinaryWrappers/Pathfinder_jll.jl/releases/download/Pathfinder-v0.5.0+0/Pathfinder.v0.5.0.powerpc64le-linux-gnu.tar.gz"
+[[Pathfinder]]
+arch = "x86_64"
+git-tree-sha1 = "26affa3b49192c78e47207fb4633822a7818265c"
+os = "macos"
+
+    [[Pathfinder.download]]
+    sha256 = "c5fc2c7920a9063eef6ae9018189929d24804f283cd380a81f50247407873377"
+    url = "https://github.com/JuliaBinaryWrappers/Pathfinder_jll.jl/releases/download/Pathfinder-v0.5.0+0/Pathfinder.v0.5.0.x86_64-apple-darwin.tar.gz"
+[[Pathfinder]]
+arch = "x86_64"
+git-tree-sha1 = "74b894bd1102a4ff7f4d6d2fc069e19bacd086cc"
+libc = "glibc"
+os = "linux"
+
+    [[Pathfinder.download]]
+    sha256 = "9bdde9c75b5c61ce22f80fdbf584a311d272f34591b01e22a8d277c65fc12886"
+    url = "https://github.com/JuliaBinaryWrappers/Pathfinder_jll.jl/releases/download/Pathfinder-v0.5.0+0/Pathfinder.v0.5.0.x86_64-linux-gnu.tar.gz"
+[[Pathfinder]]
+arch = "x86_64"
+git-tree-sha1 = "99438b64ffbfbb13ee466d0a6f62ced92230f18c"
+os = "freebsd"
+
+    [[Pathfinder.download]]
+    sha256 = "522e1e7cd89d49beef0c282833feaeb2cf3f754ddc19b554bd83c19286217b1c"
+    url = "https://github.com/JuliaBinaryWrappers/Pathfinder_jll.jl/releases/download/Pathfinder-v0.5.0+0/Pathfinder.v0.5.0.x86_64-unknown-freebsd.tar.gz"
+[[Pathfinder]]
+arch = "x86_64"
+git-tree-sha1 = "46adadbd9a1578ec0845f718569fee44d4484760"
+os = "windows"
+
+    [[Pathfinder.download]]
+    sha256 = "79d3d19f0b05742554c8f18fcc22e4398e573964434c8287075b94813223f752"
+    url = "https://github.com/JuliaBinaryWrappers/Pathfinder_jll.jl/releases/download/Pathfinder-v0.5.0+0/Pathfinder.v0.5.0.x86_64-w64-mingw32.tar.gz"
